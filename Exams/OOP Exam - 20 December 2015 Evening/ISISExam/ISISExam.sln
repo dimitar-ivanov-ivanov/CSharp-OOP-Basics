@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISIS", "ISIS\ISIS.csproj", "{E4BE7ADA-DFB9-4B2E-823A-BD1E257A73ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4BE7ADA-DFB9-4B2E-823A-BD1E257A73ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4BE7ADA-DFB9-4B2E-823A-BD1E257A73ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4BE7ADA-DFB9-4B2E-823A-BD1E257A73ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4BE7ADA-DFB9-4B2E-823A-BD1E257A73ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC81FA2C-FD70-4583-AAB8-7A1935C46B3E}
+	EndGlobalSection
+EndGlobal
